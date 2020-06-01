@@ -1,0 +1,5 @@
+Header header
+sensor_msgs/CompressedImage artifact_img
+int32 image_id
+float32 obj_prob
+string vehicle_reporter

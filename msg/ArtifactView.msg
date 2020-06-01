@@ -1,0 +1,8 @@
+Header header
+geometry_msgs/Pose rgbd_camera_pose
+sensor_msgs/CameraInfo rgbd_camera_info
+geometry_msgs/Pose thermal_camera_pose
+sensor_msgs/CameraInfo thermal_camera_info
+sensor_msgs/Image color_image
+sensor_msgs/Image thermal_image
+sensor_msgs/Image depth_image
