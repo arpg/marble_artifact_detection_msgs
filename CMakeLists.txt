@@ -25,6 +25,7 @@ add_message_files(
     ArtifactMap.msg
     ArtifactView.msg
     ArtifactImg.msg
+    PotentialArtifact.msg
   )
 
 generate_messages(
