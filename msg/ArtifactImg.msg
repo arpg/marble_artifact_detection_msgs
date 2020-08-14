@@ -1,3 +1,3 @@
 Header header
 sensor_msgs/CompressedImage artifact_img
-int32 artifact_id
+string artifact_id
