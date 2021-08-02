@@ -5,3 +5,5 @@ float64 obj_prob
 int32 image_id
 sensor_msgs/CompressedImage image
 bool robot_origin
+string mac_address
+string ssid
